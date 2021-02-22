@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
-##Welcome to our Pollinator Review page!
+## Welcome to our Pollinator Review page!
 
 We're so glad you're here.
 
