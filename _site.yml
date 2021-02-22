@@ -6,6 +6,4 @@ navbar:
       href: index.html
     - text: "About Us"
       href: about.html
-     - text: "Review Project"
-      href: project.html
 output_dir: "."
