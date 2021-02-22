@@ -1,0 +1,9 @@
+name: "our-website"
+navbar:
+  title: "Our Collaborative Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Us"
+      href: about.html
+output_dir: "."
