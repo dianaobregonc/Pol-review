@@ -1,7 +1,6 @@
 ---
 title: "index"
-author: "K Urban-Mead"
-date: "2/22/2021"
+date: "2020"
 output: html_document
 ---
 
@@ -10,27 +9,17 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ![](https://www.nature.org/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550%201x,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550&dpr=2%202x)
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 ```{r pic}
 
 
-
-
 ```
+
+##Welcome to our Pollinator Review page!
+
+We're so glad you're here.
 
 ![](group_face.png)
 
-## Including Plots
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
