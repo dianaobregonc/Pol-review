@@ -1,7 +1,5 @@
 ---
-title: "project"
-author:
-date: 
+title: "Research Project"
 output: html_document
 ---
 
