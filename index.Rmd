@@ -1,25 +1,24 @@
 ---
-title: "index"
-date: "2020"
+title: "Pollinator Review Team"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Welcome!
+
+We're so glad you're here.
+
 ![](https://www.nature.org/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550%201x,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/dam/tnc/nature/en/graphics/general/NCM_SPR20_Flourish1-2.jpg?w=828&h=550&dpr=2%202x)
 
 
 
-```{r pic}
 
-
-```
-
-## Welcome to our Pollinator Review page!
-
-We're so glad you're here.
-
+#### When we're thinking hard we look like this......
 ![](group_face.png)
 
 
+#### ...but when you visit our page we look like *this*!
+
+![](group smile.png)
